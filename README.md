@@ -1,4 +1,9 @@
 # Crop-Yield-Prediction-and-Analysis
+## About This Project
+This project was completed as part of the Supervised Learning in Python course on DataCamp. The course covered various supervised learning techniques.
+## Certification
+I have completed the Supervised Learning in Python course on DataCamp. You can find the course completion certificate [here](link to the PDF in this repository).
+
 ## Project Overview
 This project aims to predict the type of crop best suited for cultivation based on soil metrics such as Nitrogen (N), Phosphorus (P), Potassium (K), and pH levels. The project uses Logistic Regression, a popular machine learning algorithm, to evaluate the predictive power of these soil metrics in determining the optimal crop.
 
